@@ -1,12 +1,10 @@
-# 6.00 Problem Set 3
+
 # 
 # Hangman
 #
 
 
-# -----------------------------------
-# Helper code
-# (you don't need to understand this helper code)
+
 import random
 import string
 
